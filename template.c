@@ -1,7 +1,7 @@
 main()
 {
-ADD()
-SUB()
-MULT()
-DIV()
+ADD();
+SUB();
+MULT();
+DIV();
 }
